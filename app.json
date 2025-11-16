@@ -16,7 +16,7 @@
 "env": {
   "SESSION_ID": {
     "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-    "value": "~mybot",
+    "value": "",
     "required": false
   },
   "BOT_ADMIN": {
@@ -26,7 +26,7 @@
   },
   "GITHUB_USERNAME": {
     "description": "You must set your github username to use the bot unless you're a premium user",
-    "value": "zackyyyc",
+    "value": "",
     "required": false
   },
    "BOT_PASSWORD": {
